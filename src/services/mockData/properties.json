@@ -1,0 +1,172 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Downtown Loft with City Views",
+    "price": 750000,
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1200,
+    "address": "123 Urban Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipCode": "94102",
+    "description": "Stunning modern loft in the heart of downtown with floor-to-ceiling windows offering breathtaking city views. This beautifully designed space features high-end finishes, an open-concept living area, and a gourmet kitchen with premium appliances. Perfect for urban professionals seeking luxury and convenience.",
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=500&fit=crop&crop=center"
+    ],
+    "amenities": [
+      "City Views",
+      "High-Speed Internet",
+      "In-Unit Laundry",
+      "Fitness Center",
+      "Rooftop Terrace",
+      "Concierge Service"
+    ],
+    "yearBuilt": 2018,
+    "listingDate": "2024-01-15T00:00:00.000Z",
+    "coordinates": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    }
+  },
+  {
+    "id": "2",
+    "title": "Charming Victorian Home with Garden",
+    "price": 1250000,
+    "propertyType": "House",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 1800,
+    "address": "456 Heritage Lane",
+    "city": "Portland",
+    "state": "OR",
+    "zipCode": "97205",
+    "description": "Beautifully restored Victorian home featuring original hardwood floors, period details, and modern updates throughout. The property includes a private garden, wraparound porch, and spacious rooms filled with natural light. Located in a quiet, tree-lined neighborhood with easy access to local amenities.",
+    "images": [
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1556909020-f2ad5b0e1b30?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&h=500&fit=crop&crop=center"
+    ],
+    "amenities": [
+      "Private Garden",
+      "Original Hardwood Floors",
+      "Wraparound Porch",
+      "Updated Kitchen",
+      "Period Details",
+      "Quiet Neighborhood"
+    ],
+    "yearBuilt": 1895,
+    "listingDate": "2024-01-20T00:00:00.000Z",
+    "coordinates": {
+      "lat": 45.5152,
+      "lng": -122.6784
+    }
+  },
+  {
+    "id": "3",
+    "title": "Luxury Beachfront Condo with Ocean Views",
+    "price": 950000,
+    "propertyType": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1400,
+    "address": "789 Ocean Drive",
+    "city": "Miami Beach",
+    "state": "FL",
+    "zipCode": "33139",
+    "description": "Spectacular beachfront condominium with panoramic ocean views from every room. This luxury unit features a spacious balcony, modern kitchen with granite countertops, and premium finishes throughout. Building amenities include beach access, pool, spa, and 24-hour security. Perfect for vacation home or year-round living.",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1571055107559-3e67626fa8be?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&h=500&fit=crop&crop=center"
+    ],
+    "amenities": [
+      "Ocean Views",
+      "Beach Access",
+      "Resort-Style Pool",
+      "Spa & Fitness Center",
+      "24-Hour Security",
+      "Concierge Services"
+    ],
+    "yearBuilt": 2015,
+    "listingDate": "2024-01-25T00:00:00.000Z",
+    "coordinates": {
+      "lat": 25.7617,
+      "lng": -80.1918
+    }
+  },
+  {
+    "id": "4",
+    "title": "Contemporary Townhouse in Trendy Neighborhood",
+    "price": 650000,
+    "propertyType": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFeet": 1600,
+    "address": "321 Modern Way",
+    "city": "Austin",
+    "state": "TX",
+    "zipCode": "78701",
+    "description": "Stylish contemporary townhouse in the heart of Austin's most vibrant neighborhood. Features an open floor plan, modern kitchen with stainless steel appliances, private patio, and attached garage. Walking distance to restaurants, shops, and entertainment venues. Perfect for those who want to be in the center of it all.",
+    "images": [
+      "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1556912167-f556b0c1c18e?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=500&fit=crop&crop=center"
+    ],
+    "amenities": [
+      "Open Floor Plan",
+      "Modern Kitchen",
+      "Private Patio",
+      "Attached Garage",
+      "Walk to Entertainment",
+      "Central Location"
+    ],
+    "yearBuilt": 2020,
+    "listingDate": "2024-02-01T00:00:00.000Z",
+    "coordinates": {
+      "lat": 30.2672,
+      "lng": -97.7431
+    }
+  },
+  {
+    "id": "5",
+    "title": "Spacious Suburban Family Home with Pool",
+    "price": 580000,
+    "propertyType": "House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2400,
+    "address": "987 Family Circle",
+    "city": "Charlotte",
+    "state": "NC",
+    "zipCode": "28202",
+    "description": "Perfect family home in a desirable suburban neighborhood featuring four spacious bedrooms, open kitchen and living areas, and a beautiful backyard with swimming pool. The property includes a two-car garage, large master suite, and is located in an excellent school district. Move-in ready with recent updates throughout.",
+    "images": [
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1615529328331-f8917597711f?w=800&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=500&fit=crop&crop=center"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Large Backyard",
+      "Two-Car Garage",
+      "Master Suite",
+      "Excellent Schools",
+      "Family Neighborhood"
+    ],
+    "yearBuilt": 2010,
+    "listingDate": "2024-02-05T00:00:00.000Z",
+    "coordinates": {
+      "lat": 35.2271,
+      "lng": -80.8431
+    }
+  }
+]
